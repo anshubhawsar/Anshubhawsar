@@ -4,7 +4,7 @@
   <a href="https://himgrow.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-himgrow.vercel.app-0B3D91?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/anshubhawsar" target="_blank"><img src="https://img.shields.io/badge/GitHub-anshubhawsar-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="mailto:vabhawsar@gmail.com"><img src="https://img.shields.io/badge/Email-vabhawsar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Phone-%2B91%209399614149-2E7D32?style=for-the-badge&logo=phonepe&logoColor=white" alt="Phone" />
+  <img src="https://img.shields.io/badge/Phone-%2B91%209399614149-2E7D32?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Bachelor of Technology (B.Tech), 2024 - 2028
 
 ## Achievements
 
-- **Codeforces:** Reached a rating of 1150 shortly after starting, reflecting rapid growth in algorithmic problem-solving with C++.
+
 - **Optimization Mindset:** Consistently write clean, optimized, and computationally efficient code for constrained environments.
 
 ---
